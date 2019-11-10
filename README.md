@@ -1,3 +1,3 @@
 # Simulation-of-Galton-Board-on-Scilab
 
-![Fig](g.png)
+![Fig](gb.png)
